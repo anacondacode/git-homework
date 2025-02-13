@@ -1,0 +1,13 @@
+.container {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+	flex-direction: row;
+}
+img	{
+	height: 333px;
+	width: 333px;
+}
+.text {
+	font-size: 150%;
+}
